@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">azhar_ganteng</string>
+    <string name="welcome_to_biografi_pendiri_muhamadiyah">welcome</string>
+    <string name="lihat_biografi">Biografi Ahmad Dahlan</string>
+    <string name="todo">logo</string>
+    <string name="seejarah">Sejarah Muhammadiyah</string>
+    <string name="sejarah_muhammadiyah">SEJARAH MUHAMMADIYAH</string>
+    <string name="muhammadiyah_didirikan_di_kampung_kauman_yogyakarta_pada_8_dzulhijjah_1330h_atau_18_november_1912_oleh_muhammad_darwis_yang_kemudian_dikenal_dengan_kyai_haji_ahmad_dahlan_dilansir_dari_situs_resmi_muhammadiyah_setelah_kyai_haji_ahmad_dahlan_menunaikan_ibadah_haji_ke_tanah_suci_beliau_mulai_menyampaikan_benih_pembaruan_di_tanah_air_gagasan_pembaruan_itu_diperoleh_kyai_haji_ahmad_dahlan_setelah_berguru_kepada_ulama_ulama_indonesia_yang_bermukim_di_mekkah">Muhammadiyah didirikan di Kampung Kauman Yogyakarta, pada 8 Dzulhijjah 1330H atau 18 November 1912 oleh Muhammad Darwis yang kemudian dikenal dengan Kyai Haji Ahmad Dahlan. Dilansir dari situs resmi Muhammadiyah, setelah Kyai Haji Ahmad Dahlan menunaikan ibadah haji ke Tanah Suci, beliau mulai menyampaikan benih pembaruan di Tanah Air. Gagasan pembaruan itu diperoleh Kyai Haji Ahmad Dahlan setelah berguru kepada ulama-ulama Indonesia yang bermukim di Mekkah.</string>
+    <string name="judul">TODO</string>
+</resources>

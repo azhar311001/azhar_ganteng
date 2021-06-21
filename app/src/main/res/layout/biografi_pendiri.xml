@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/c">
+
+
+    <RelativeLayout
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/c">
+
+        <TextView
+            android:id="@id/igahmad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:text="BIOGRAFI AHMAD DAHLAN"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/igahmad"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/image5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Beliau dikenal sebagai pendiri Muhammadiyah, salah satu organisasi islam terbesar di Indonesia.
+Beliau juga merupakan seorang ulama dan salah satu tokoh pembaaharuan islam di Indonesia. Berkat perjuangan jasa-jasa KH Ahmad Dahlan, Pemerintah Indonesia menganugerahkan gelar Pahlawan Nasional kepadanya
+"
+            android:textSize="16dp" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
